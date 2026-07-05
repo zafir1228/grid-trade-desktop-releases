@@ -1,11 +1,11 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: GridTrade-1.0.0-x64.dmg
-    sha512: pUmcUaOdniOpySRuhBqQ82qnQ0X9cSjgo6c7YkM+To97GUUgomKsjTdXN6y9iX7CZtRM7QJq2q93zGmmmomF5A==
-    size: 200649497
-  - url: GridTrade-1.0.0-arm64.dmg
-    sha512: h9NeubLi2umd2fgZtPhC0xN/QKx9YOTPuCaGmVTe7aIS8R78LHxWn4zQHNFIg3+M/JxrM0daXLwykoP+mj9vww==
-    size: 196654959
-path: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.0/GridTrade-1.0.0-arm64.dmg
-sha512: pUmcUaOdniOpySRuhBqQ82qnQ0X9cSjgo6c7YkM+To97GUUgomKsjTdXN6y9iX7CZtRM7QJq2q93zGmmmomF5A==
-releaseDate: '2026-07-05T08:37:07.885Z'
+  - url: gt-1.0.1-arm64.dmg
+    sha512: 5EeXcr5pnYucbvWvinEtXFw5dJmu01V5knEBb6ydBPNxggGO+VNPQzkCFmitd1XFu8Knk0Xto6gKRjqwm4u7eA==
+    size: 206825527
+  - url: gt-1.0.1-x64.dmg
+    sha512: vRBjOOaDj2g9kEigo5RdgDo4L/t/ePcZFySZC1u3RBPkHFeuWK6tqMRCIWXbgThube0oJOUPIa/E8ED6FKoFjw==
+    size: 210806904
+path: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.1/gt-1.0.1-arm64.dmg
+sha512: 5EeXcr5pnYucbvWvinEtXFw5dJmu01V5knEBb6ydBPNxggGO+VNPQzkCFmitd1XFu8Knk0Xto6gKRjqwm4u7eA==
+releaseDate: '2026-07-05T14:34:57.209Z'
