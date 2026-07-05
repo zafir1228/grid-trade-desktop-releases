@@ -1,17 +1,11 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.3/gt-1.0.3-arm64.zip
-    sha512: +boUQGJuZxrsiFsTKoALezEkoc+bYUqCGj/GcwaWpuWTeiFjFsYiMj7L+Boh4f90muWiVMX7XpxT8BcHgNC1iw==
-    size: 200355069
-  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.3/gt-1.0.3-x64.zip
-    sha512: gIJHTj29yKqLXsR4wLgm9RL83qnRwvpK5kNBgOHFqx1RqCVZ95lRuLNx9DMh1nUIJaPmifI661NhGQ/VV+AuTw==
-    size: 204385707
-  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.3/gt-1.0.3-arm64.dmg
-    sha512: 24pQclpheLO14+rSsT55l5MuXQFHpS63368Zq5E23DBiNaX0VT1ri/HgIIlpaBbZFo3ansydLSb78MdfqEt2Wg==
-    size: 206834265
-  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.3/gt-1.0.3-x64.dmg
-    sha512: tfzA3yd+f6fA/lUEo36YqwC8QHDcM8nulHajayTLW8OPATYURnouxJwA03wR82Dzj+wk7221sjNRZmAocGIHGg==
-    size: 210822152
-path: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.3/gt-1.0.3-arm64.zip
-sha512: +boUQGJuZxrsiFsTKoALezEkoc+bYUqCGj/GcwaWpuWTeiFjFsYiMj7L+Boh4f90muWiVMX7XpxT8BcHgNC1iw==
-releaseDate: '2026-07-05T15:13:23.760Z'
+  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.4/gt-1.0.4-x64.dmg
+    sha512: uxUu6T3wLsDf/rS//lON32pyGP/uqE5cDoSbB4nCEuQNKEfFMp6ofk1bJxt9Yq2Sz7JiQCOJkR41p9kcy9Ckyg==
+    size: 210808704
+  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.4/gt-1.0.4-arm64.dmg
+    sha512: UPhN/o8BMcq08oQegUKJhk4+o0IWcu9/rKT4PFFj/ZEz5lVAykbUqlKvAtehoKY6iXxv8wibz9qWzYpJla+e7Q==
+    size: 206851025
+path: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.4/gt-1.0.4-x64.dmg
+sha512: uxUu6T3wLsDf/rS//lON32pyGP/uqE5cDoSbB4nCEuQNKEfFMp6ofk1bJxt9Yq2Sz7JiQCOJkR41p9kcy9Ckyg==
+releaseDate: '2026-07-05T15:48:12.047Z'
