@@ -1,8 +1,8 @@
-version: 1.0.0
+﻿version: 1.0.0
 files:
-  - url: gt-1.0.0-x64.exe
+  - url: https://media.githubusercontent.com/media/zafir1228/grid-trade-desktop-releases/main/gt-1.0.0-x64.exe
     sha512: P7GRZsiApT18X47DNPtrqqrYducEXvbS69gHEnf9HbYHP+rTkSKoxbCMIp5KudT+x5mOd54XIbJduKSS+jzXWQ==
     size: 152653399
-path: gt-1.0.0-x64.exe
+path: https://media.githubusercontent.com/media/zafir1228/grid-trade-desktop-releases/main/gt-1.0.0-x64.exe
 sha512: P7GRZsiApT18X47DNPtrqqrYducEXvbS69gHEnf9HbYHP+rTkSKoxbCMIp5KudT+x5mOd54XIbJduKSS+jzXWQ==
 releaseDate: '2026-11-26T08:03:55.192Z'
