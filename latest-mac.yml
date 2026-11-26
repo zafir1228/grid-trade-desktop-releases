@@ -1,11 +1,11 @@
 version: 1.0.0
 files:
-  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.0/gt-1.0.0-x64.dmg
+  - url: https://media.githubusercontent.com/media/zafir1228/grid-trade-desktop-releases/main/gt-1.0.0-x64.dmg
     sha512: TErz6y2Q2oS/JQyf1w9am7qNwJkkI8KkxktI9cZ4b4lqEZ3GEiDIWbCr65lsscb3LHTO9uFR1lAjCzjAIHLi9Q==
     size: 213294606
-  - url: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.0/gt-1.0.0-arm64.dmg
+  - url: https://media.githubusercontent.com/media/zafir1228/grid-trade-desktop-releases/main/gt-1.0.0-arm64.dmg
     sha512: ct/uQL2y8REX565b3hHwNJb7P33LnCG8SNTuv/U8WvzvHjMhpiYK+jiE1o4dVR350Y7qnhi/vPNCtsec6gJ+Uw==
     size: 209335132
-path: https://github.com/zafir1228/grid-trade-desktop-releases/releases/download/v1.0.0/gt-1.0.0-x64.dmg
+path: https://media.githubusercontent.com/media/zafir1228/grid-trade-desktop-releases/main/gt-1.0.0-x64.dmg
 sha512: TErz6y2Q2oS/JQyf1w9am7qNwJkkI8KkxktI9cZ4b4lqEZ3GEiDIWbCr65lsscb3LHTO9uFR1lAjCzjAIHLi9Q==
 releaseDate: '2026-11-26T07:44:23.920Z'
